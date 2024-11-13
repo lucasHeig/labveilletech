@@ -1,0 +1,13 @@
+*.lock
+
+#hugo
+public/
+resources/
+
+#build directory
+public
+dist
+
+node_modules
+package-lock.json
+boewer_components
