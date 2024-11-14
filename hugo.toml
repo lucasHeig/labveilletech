@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "fr"
 theme = "hugo-winston-theme"
 themesDir = "themes"
 title = "LabVeilleTech"
@@ -16,7 +16,7 @@ pygmentsUseClasses = true
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@zerostaticio"
+  twitter_handle = "@lucartoon153"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showIntroContentOnHomepage = true
@@ -48,8 +48,8 @@ pygmentsUseClasses = true
 
 [menu]
   [[menu.main]]
-    identifier = 'home'
-    name = 'Home'
+    identifier = 'accueil'
+    name = 'Accueil'
     url = '/'
     weight = 1
   [[menu.main]]
