@@ -1,8 +1,10 @@
 ---
-title: 'Salut 👋'
+title: 'A propos'
 url: "/about/"
 image: images/ikigai.png
 ---
+
+# Salut 👋
 
 ## Ikigai
 
@@ -15,3 +17,6 @@ Je travaille dans la conception d’interfaces digitales, avec une spécialisati
 
 ## A propos de moi
 Passionné par les technologies, la nature, et l’histoire, je trouve de la motivation dans des projets qui font une différence. Mon parcours est guidé par une recherche d’égalité et de solutions durables. Au quotidien, j’aime les animaux et la lecture, ce qui nourrit mon imagination et ma capacité à penser différemment pour concevoir des solutions inclusives.
+
+## A propos du site
+Ce site a été fait avec "hugo winston theme" et deployé avec Github.
