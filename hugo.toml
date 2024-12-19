@@ -4,7 +4,7 @@ theme = "hugo-winston-theme"
 themesDir = "themes"
 title = "LabVeilleTech"
 [pagination]
-  pagerSize = 3
+  pagerSize = 5
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
@@ -58,7 +58,7 @@ pygmentsUseClasses = true
     weight = 2
     url = "/posts/"
   [[menu.main]]
-    name = "About"
+    name = "A propos"
     identifier = "about"
     weight = 3
     url = "/About/"
