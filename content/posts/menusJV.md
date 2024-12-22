@@ -10,14 +10,14 @@ tags:
    - interface
 ---
 
-# Le design des menus de jeux : ce casse-tête invisible 
+### Vidéo: "Le design des menus de jeux : ce casse-tête invisible" 
 *Source : [Chaine Youtube WTF'UX](https://www.youtube.com/watch?v=IrRJdOVV-dw) - 07.12.2024*
 
-## Résumé de l'article :
+## Résumé de la vidéo
 
 La vidéo traite du design des menus dans les jeux vidéo, souvent négligé malgré son importance. Une interface mal pensée crée des frictions, diminue l'expérience utilisateur et génère des frustrations. Le design optimal doit être intuitif, ergonomique et adapté aux dispositifs (manette, clavier/souris). Cependant, les contraintes de temps, les deadlines serrées et les priorités des studios expliquent pourquoi les menus sont parfois imparfaits à la sortie.
 
-## Les points clés
+## Les points clés 
 
 **L’ergonomie et la simplicité :** Éviter la surcharge cognitive en respectant des principes d’ergonomie (proximité, similarité, progression douce).
 
@@ -28,7 +28,7 @@ La vidéo traite du design des menus dans les jeux vidéo, souvent négligé mal
 **Pression des deadlines :** Les interfaces sont souvent dépriorisées dans les projets, créant des lacunes au lancement.
 
 
-## Lien avec mon Ikigai :
+## Lien avec mon Ikigai
 
 * Valoriser l’UX/UI design dans tout projet pour garantir une meilleure expérience utilisateur.
 * Adapter les solutions selon le support (multiplateforme, manette vs souris).

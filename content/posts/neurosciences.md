@@ -1,16 +1,16 @@
 ---
-title: 4 secrets issus des neurosciences pour un site internet qui captive
+title: Les neurosciences pour captiver
 date: 2024-12-05
-description: "Article partageant 4 principes basés sur les neurosciences pour rendre un site web captivant : simplifier l'information pour éviter la surcharge cognitive, utiliser des visuels attrayants pour capter l'attention, structurer le contenu pour guider le regard, et jouer sur les émotions pour susciter l'engagement."
+description: "Article partageant 4 principes basés sur les neurosciences pour rendre un site web captivant."
 tags:
    - neurosciences
    - site web 
    - design UI/UX
-   - veille
 ---
+#### Article : "4 secrets issus des neurosciences pour un site internet qui captive"
 *Source : [La boucle](https://laboucle.media/ux-ui-design/4-secrets-issus-des-neurosciences-pour-un-site-internet-qui-captive/) - 21.06.2024*
 
-## Résumé de l'article :
+## Résumé de l'article et points clés:
 
 L'article explique comment appliquer les neurosciences pour créer des sites web captivants :
 

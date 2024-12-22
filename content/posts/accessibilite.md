@@ -6,10 +6,10 @@ description: "La vidéo “La magie de l'accessibilité” explore l'importance 
 # imageAltAttribute: CCTV Cameras
 tags:
    - accessibilité 
-   - Jeux vidéo
+   - jeux vidéo
    - design UI/UX
 ---
-## La magie de l’accessibilité
+### Vidéo : "La magie de l’accessibilité"
 *Source : [Chaine Youtube WTF'UX](https://www.youtube.com/watch?v=NMshAl7DPWo) - 08.12.2024*
 
 ## Résumé de la vidéo
@@ -23,11 +23,13 @@ La vidéo “La magie de l'accessibilité” explore l'importance des options d�
 **Collaboration avec les utilisateurs finaux :** Impliquer des consultants comme [Steve Saylor](https://en.wikipedia.org/wiki/Steve_Saylor) améliore considérablement l’accessibilité.
 **Normes et priorisation :** Certaines entreprises sacrifient l’accessibilité par manque de budget ou temps.
 
-## Lien avec mon Ikigai :
+## Lien avec mon Ikigai
 
   * Design inclusif : Concevoir des produits/services accessibles permet de toucher un public plus large et d’améliorer l’expérience utilisateur.
   * Innovation UX/UI : Développer des solutions qui répondent à divers besoins renforce ton expertise en expérience utilisateur.
   * Collaboration avec les utilisateurs : Travailler directement avec des personnes concernées améliore la pertinence des solutions.
   * Valeurs ajoutées : Promouvoir l'accessibilité montre un engagement éthique et renforce l’image de marque.
 
-Compétence clé : Apprendre à anticiper les besoins d’accessibilité pour inclure chaque utilisateur et utilisatrice, une exigence grandissante sur le marché.
+Compétence clé : Apprendre à anticiper les besoins d’accessibilité pour inclure chaque utilisateur et utilisatrice, une exigence grandissante sur le marché.  
+
+En complément, une autre vidéo de WTF'UX : ["Pourquoi l’accessibilité vous concerne aussi"](https://www.youtube.com/watch?v=4dbAfCamLSg) - 18.12.2024*

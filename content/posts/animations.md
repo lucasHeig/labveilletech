@@ -8,10 +8,10 @@ tags:
    - jeux vidéo
 ---
 
-# L'art de tromper nos cerveaux
+### Vidéo : "L'art de tromper nos cerveaux"
 *Source : [Chaine Youtube WTF'UX](https://www.youtube.com/watch?v=v6XHDy2_30U) - 13.12.2024*
 
-## Résumé de l'article :
+## Résumé de la vidéo
 
 La vidéo “L’art de tromper nos cerveaux” explique comment les animations dans le design d’interfaces jouent un rôle essentiel dans notre perception et nos émotions. Elles améliorent l'expérience utilisateur en occupant l'esprit, réduisant la perception du temps et en rendant une interface plus vivante et mémorable. Elles visent à créer un "Delight" (plaisir durable) en activant des émotions viscérales, comportementales et réfléchies pour engager et fidéliser les utilisateurs.
 
@@ -32,7 +32,7 @@ La vidéo “L’art de tromper nos cerveaux” explique comment les animations 
 **Persuasion émotionnelle :** Les animations peuvent influencer les décisions, notamment pour des promotions ou produits premium.
 
 
-## Lien avec mon Ikigai :
+## Lien avec mon Ikigai
 
 1. Mission (accessibilité des interfaces) : 
 Les animations peuvent réduire la frustration des utilisateurs en optimisant leur perception du temps et en rendant une interface plus fluide. Exemple : animations de chargement qui réduisent l’ennui.
